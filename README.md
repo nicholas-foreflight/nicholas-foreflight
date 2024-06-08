@@ -1,4 +1,3 @@
-<h1 align="center" style="font-size: 22px"> Hopper </h1>
 
 <!-- Background -->
 ```math
